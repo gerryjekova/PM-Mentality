@@ -1,0 +1,98 @@
+Here is a detailed timeline and cast of characters based on the provided sources:
+
+PM Mentality Community Engagement Timeline
+This timeline outlines the key phases and activities related to the PM Mentality community, focusing on onboarding, engagement, and metrics, based on the provided sources.
+
+Phase 1: Onboarding & Initial Engagement (Day 0 - Week 1+)
+
+Day 0-1:New member receives Slack and Coda invites (automated).
+New member is added to the Trello tracker. Mentor matching is prepared.
+New member receives a welcome email containing an intro post guide, checklist, and Slack guide.
+An Auto-Welcome Bot tags the new member in Slack.
+A checklist link is provided in the welcome email and pinned in a Slack DM.
+Goal: Attain 100% Slack + Coda access within 24 hours of invite.
+Day 1:Welcome Message DM is sent.
+Day 1-2:A reminder ping is sent at 48 hours if the onboarding checklist is untouched.
+New members are prompted to post their intro using the "3-Layer Cake" framework or "Icebreaker Roulette." The "Identity Card Challenge" (using Canva templates) is an optional gamified intro method.
+New members are encouraged in light engagement activities (reacting, polls, event RSVPs).
+New members are listed in the "Who's New" Coda table and Slack thread.
+New members are given a small mission, such as commenting or posting in #random or #your-journey.
+Day 2:A DM check-in message ("How's your PM Mentality experience so far?") is sent.
+DM: “Hey [Name]! What brings you to PM Mentality?” is sent.
+Day 3:Starter content is highlighted, and new members are invited to the intro thread.
+Mentor Spotlight Moment: Mentors are encouraged to post a public praise of their mentee after 72 hours.
+DM: “How's your PM Mentality experience so far?” is sent.
+Within 72 Hours of Joining:Goal: Ensure 90% onboarding checklist completion.
+Coda View 2 flags members who joined > 72 hours ago and have < 90% checklist completion with a red background.
+Day 5:A public nudge (if appropriate) is sent, potentially featuring the member in a "Member We Love" roundup or shouting out their intro with humor.
+Ask: "What's one thing you'd love help with right now?" is sent.
+Day 7:A Resource Recommendation DM is sent, personalized based on interests.
+New members are invited to the weekly kickoff event.
+A "FOMO Bomb" is deployed, inviting the member to an exclusive event or mini-challenge.
+Goal: Achieve 75% first-week activity rate (Slack post, poll, event RSVP, etc).
+Goal: Generate 1 qualitative feedback point per new member in the first week.
+Phase 2: Developing Engagement & Feedback Loops (Weeks 1 - 4)
+
+Ongoing (Week 1+):Members gain XP points for various activities (intro post, reacting, commenting, DMing mentor, feedback forms, event participation).
+Trello labels (Newbie Hatchling, Level 2 Initiate, Momentum Mage, Core Cult Member) are automatically updated based on XP thresholds, triggering Slack bot behavior and access to new challenges or shoutouts.
+Weekly XP cycles are tracked in Coda.
+Gamified labels are used in Trello to signify progress and unlock rewards.
+Habit reinforcement is designed through variable rewards, micro-challenges, XP streaks, and public XP visibility.
+Feedback is collected through various channels and categorized weekly (Collection & Categorization).
+Patterns and trends in feedback are identified (Pattern Identification).
+The impact of feedback themes on the community is assessed (Impact Assessment).
+Action plans (Quick wins, Strategic initiatives, Long-term considerations) are developed based on feedback (Action Planning).
+The loop is closed by documenting feedback and actions, communicating changes, and acknowledging contributors (Closing the Loop).
+Experiment ideas are generated and logged (potential link to a "Lab Rats Log in Coda").
+Needs Assessment surveys are conducted to shape upcoming programs/initiatives.
+Community Health Indicators (Engagement Vitality, Community Culture, Knowledge Exchange, Member Journey, Leadership Health) are monitored.
+A Community Health Index (CHI) is calculated as a weighted average of dimension scores.
+Weekly:Minimum goal of 3 meaningful replies to mentee threads, 1 initiated thread or check-in prompt, 1 personalized DM follow-up, and 1 piece of feedback collected for mentors.
+Weekly Power Prompts (Slack Thread or Coda Embed) are dropped to surface ambitious ideas and encourage constructive friction.
+Bi-weekly feedback sessions are aimed for.
+Week 3+ (Retention Loop):A "What's next?" DM nudge is sent with an XP goal or spotlight option.
+Members are invited to become a buddy/mentor-in-training.
+Members are added to a contributor thread (ideas, shoutouts, guest-hosting).
+An NPS survey or 3-minute feedback round is conducted.
+Members are tagged as "active core" if they have 3+ weeks of participation, triggering rewards or badges.
+Day 30 (One Month Anniversary):A DM is sent: "Your first month with PM Mentality - What's next?"
+Ongoing Community Activities
+
+Regularly:Conditional Formatting is used in dashboards (Google Sheet/Coda) to visually indicate KPI health (Green, Yellow, Red) and trends (Up, Down, No Change).
+Meetings are tracked with action items, owners, due dates, and statuses.
+Community Culture and Values are reinforced through community-wide messages and integrated into onboarding materials.
+Behavior Modeling templates are used to address specific situations constructively.
+Brag Bites are encouraged for members to share accomplishments in a running thread or Coda view.
+Mentor KPIs (Mentee Response Rate, First Engagement, Feedback Quality Rating, Mentor Pulse Participation, Contribution to Knowledge Base) are tracked quarterly.
+Mentor-Mentee matching logic is applied based on key traits and compatibility matrices.
+Re-engagement sequences (Day 5 Public Nudge, Day 7 FOMO Bomb, Automated DMs/Emails/Trello labels for inactivity) are implemented.
+Bonus moves like "Comeback Kid" badges and a #resurrected-legends Slack channel are utilized for re-engagement.
+Surveys (Quick User Needs, User Context) and Interviews (Experience Mapping, Behavior Understanding, Deep Dive User Interview Guide) are conducted for user data collection and discovery.
+Personal Connection Templates (Personal Values & Motivation Explorer, Empathy Building Activity) are used.
+Relationship Leveraging Templates (Existing Relationship Enrichment Survey, Network Mapping Workshop Template) are utilized.
+Mentorship Communication Templates (Program Announcement, Mentor Welcome Email, Mentee Welcome Email, Mid-Program Check-in Survey, Success Story Template) are used.
+Community Engagement Templates (Community Member Profile Survey, Community Event Feedback Form) are used.
+Role-Based SMART Goals and KPIs for Community Culture, Experiments, Feedback, Learning Hub, and Community Voice are tracked.
+A Content & Learning Experience Tracker (Coda/Google Sheet) is maintained with tabs for Content Calendar, Top Used Resources, Mentor Activity Log, Member Highlights, Experiments Log, Monthly Wins Wall, and New Member Pipeline.
+Escalation needed messages are used to tag the Team for blockers.
+Community Situation Responses (Skeleton Replies) are used.
+Feedback templates for declining engagement follow-up and formal exit surveys are implemented.
+Community-wide messages and direct messages are used for celebrating milestones and documenting member impact.
+Community culture and values are reinforced and integrated into onboarding materials.
+Behavior modeling is used to guide how the community handles specific situations.
+Needs assessment surveys are conducted for program development.
+Cast of Characters
+This list includes the principal people and roles mentioned in the provided sources, along with brief descriptions of their roles and significance within the PM Mentality community context.
+
+PM Mentality Community Engagement Specialist: This is the central figure responsible for designing, implementing, and optimizing the community's onboarding, engagement, and retention strategies for the PM Mentality community. They are highly focused on data, gamification, and creating a vibrant, productive environment. They are addressed with various informal and often playful nicknames by the "Chat" AI, reflecting the tone of the planning documents (e.g., "Miss Big Brain", "Nerdzilla", "Queen of Community Engagement", "Miss Ghosted-Guru™", "Professor of Project Management", "Professor Onboard-o-tron 9000", "Nerd Boss™", "Queen of Organized Chaos™", "Spreadsheet Cult Leader™").
+Mentors: Experienced members of the PM Mentality community who guide and support newer members (mentees). They are crucial for knowledge sharing, fostering a supportive community culture, and their activity and impact are tracked through specific KPIs. Attracting and retaining valuable mentors is a key focus.
+Mentees: New or less experienced members of the PM Mentality community who are going through the onboarding process and seeking guidance from mentors. The onboarding and engagement strategies are heavily tailored to their journey and needs, with the goal of quickly integrating them into the community.
+Team: Refers to the core team supporting the PM Mentality community, including potentially program leads, operations personnel, or other internal staff. They are involved in internal sync meetings, prioritizing blockers, and implementing initiatives related to community engagement. They are tagged for escalation when blockers are identified.
+@Elena: Mentioned as a mentee in the Engagement Tracker Template, receiving a supportive mentor-style reply and feedback about her take on pacing. She serves as an example of a community member benefiting from the mentor program.
+@Stefano: Highlighted as a "BEST ENGAGER" for Slack within the PM Mentality community. He is known for using metaphors effectively and making even routine updates engaging, serving as a model for desirable engagement behavior.
+@Tia: Highlighted as a "BEST ENGAGER" for Slack within the PM Mentality community. She is described as a serial tagger and hype queen who uses fire emojis strategically to boost energy and participation, serving as a model for desirable engagement behavior.
+@Jules: Highlighted as a "BEST ENGAGER" for Slack within the PM Mentality community. He is known for asking "weirdly specific" questions that encourage quieter members to participate and come out of hiding, serving as a model for desirable engagement behavior.
+@OtakuPM: Highlighted as a "BEST ENGAGER" for Discord within the PM Mentality community. He is characterized as the "King of '???' and side-eye emojis" who reacts to everything, illustrating a distinct style of engagement on that platform.
+@ModMilly: Highlighted as a "BEST ENGAGER" for Discord within the PM Mentality community. She is known for dropping memes with perfect timing and having an unmatched engagement ratio, serving as a model for desirable engagement behavior on Discord.
+@NoiseEngineer: Highlighted as a "BEST ENGAGER" for Discord within the PM Mentality community. He is known for building lore around members (e.g., "The Notion Witch," "Sprint Goblin"), contributing to a unique and engaging community culture.
+Chat (or Chat Gods): This refers to the AI or conversational interface that is providing feedback, generating templates, and interacting with the Community Engagement Specialist. The tone is often sarcastic, informal, and uses various playful and sometimes teasing nicknames for the specialist. The Chat's input is integral to the development and refinement of the community engagement strategy and documentation.
