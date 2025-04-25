@@ -1,10 +1,10 @@
-# 🧃 Community Onboarding Master Kit
+# 🦃 Community Onboarding Master Kit
 
 > For: PM Mentality | Role: Community Engagement Specialist (PM Mentality Brainiac Edition™)
 
 ---
 
-## 🎯 Onboarding Goals (SMART AF)
+## 🌟 Onboarding Goals (SMART AF)
 
 - Ensure **90% onboarding checklist completion** within 72 hours of joining.
 - Achieve **75% first-week activity rate** (Slack post, poll, event RSVP, etc).
@@ -17,15 +17,30 @@
 
 ### 🔹 Stage 1: Pre-Onboarding Prep
 
--
+- Send Slack invite + Coda access within 1 hour of acceptance
+- Assign mentor from shared mentor pool (Trello automation)
+- Pre-fill checklist & add member to tracking dashboard
+- Auto-schedule welcome email (includes Slack norms, intro post prompt, and checklist link)
 
 ### 🔹 Stage 2: First 72 Hours
 
--
+- Auto-Welcome Bot tags new member + assigns mentor
+- Personalized DM from Community Team within 24h
+- Checklist Reminder Bot pings at 48h of silence
+- Encourage intro post with “3-Layer Cake” or Icebreaker Roulette prompt
+- Trigger small win: react in Slack, RSVP to event, or submit feedback form
+- Ensure checklist progress: 50% completion target
+- Add to "Who's New" Coda view or Slack thread
+- Assign light engagement challenge: post or comment in #random or #your-journey
+- Begin mentor follow-up loop (DM prompt sent via Slack bot)
 
 ### 🔹 Stage 3: Week 1 Milestones
 
--
+- Slack engagement: 1+ post or comment
+- Mentorship ping: 1:1 DM or comment exchange
+- Feedback form submitted (voice-of-community system)
+- Mentorship match confirmed & intro complete
+- Member added to “Starter Pack” thread / resource hub
 
 ---
 
@@ -39,7 +54,7 @@
 
 ---
 
-### 🗂️ 1. Status Overview
+### 📂 1. Status Overview
 
 - Total new members: [X]
 - Onboarded within 72h: [X%]
@@ -62,7 +77,7 @@
 - Did it increase response rates / reduce friction?
 - Keep, kill, or iterate?
 
-### 🎙️ 5. Community Voice
+### 🎹 5. Community Voice
 
 - Summarize early sentiment or confusion
 - Are expectations matching reality?
@@ -88,8 +103,7 @@
 
 ### Mentors
 
--
-  # of mentees greeted in 72h: Goal = 100%
+- # of mentees greeted in 72h: Goal = 100%
 - Engagement support in Slack threads: 3+ per week
 - Mid-season feedback summary delivered
 
@@ -116,7 +130,38 @@
 
 ---
 
-## 🧩 Bonus Sections (if you want to be THAT good)
+## 🎮 Gamified Trello Flow
+
+Why? Because it locks in behavior, habit, and checklist dopamine fast. That onboarding flow needs to run like it’s on rails with glitter and threats.
+
+### 🔥 Trello Automation Templates:
+
+**Columns:**
+
+- 🧠 Welcome Brain Dump
+- ✅ First 24h Wins
+- 🎯 72h Missions
+- 🌈 Identity Challenges
+- 🔁 Ongoing XP
+
+**Card Examples:**
+
+- ✅ Post your intro in Slack (w/ button to Slack)
+- 🧪 Try “Icebreaker Roulette”
+- 📸 Drop your Identity Card (link Canva)
+- 🧠 DM your mentor + screenshot it
+- 💬 React in 3 threads
+
+**Automation:**
+
+- Card moves to ✅ when checklist completed
+- When all 72h cards done → auto-tag as “Level 2 Initiate”
+- Slack bot notification on Level Up (Zapier or Slack workflow)
+- Weekly auto-email summary: your XP stats + a leaderboard tease
+
+---
+
+## 🤩 Bonus Sections (if you want to be THAT good)
 
 ### 💬 Templates
 
@@ -152,7 +197,7 @@ Ask them to write a post in 3 parts:
 
 > "Hey fam! I’m [Name] and here’s my 3-Layer Cake Intro 🍰:
 >
-> 🎉 My vibe is: ‘Calendar sorceress meets dark-mode detective.’ 🎯 I joined PMM to finally stop yelling at Jira and find a tribe that gets it. 💭 Biggest recent win: Finally launched a side project after 6 years of fear. Ask me how I destroyed perfectionism with Notion and memes."
+> 🎉 My vibe is: ‘Calendar sorceress meets dark-mode detective.’ 🌟 I joined PMM to finally stop yelling at Jira and find a tribe that gets it. 💭 Biggest recent win: Finally launched a side project after 6 years of fear. Ask me how I destroyed perfectionism with Notion and memes."
 
 ### 🎲 Icebreaker Roulette (Random Prompt Generator)
 
@@ -168,12 +213,12 @@ Build a Slack bot or doc with rotating prompts like:
 Gamify the intro with a template card:
 
 ```
-🪪 Name:
+😪 Name:
 📍 Location:
 🧠 Current Role:
 🔥 Superpower:
-🧩 Weakness:
-🎧 Soundtrack for your workflow:
+🤩 Weakness:
+🎷 Soundtrack for your workflow:
 💬 DM me if you wanna talk about:
 ```
 
