@@ -1,0 +1,83 @@
+# 🔁 Trello Workflow Automation Cheatsheet – PM Mentality
+
+---
+
+## 📋 Board Setup: Member Journey
+**Recommended Lists:**
+- 🧠 Welcome Brain Dump
+- ✅ First 24h Wins
+- 🎯 72h Missions
+- 🌈 Identity Challenges
+- 🔁 Ongoing XP
+- 🧼 Ghost Zone
+
+---
+
+## 🤖 Automation Buttons (Butler)
+
+### 🔹 New Member Cohort
+**Trigger:** Manual Button → “New Member”
+- Create card in "Welcome Brain Dump"
+- Add checklist:
+  - [ ] Send Welcome DM
+  - [ ] Add to Slack + Coda
+  - [ ] Prompt Intro Post
+  - [ ] Assign Mentor
+  - [ ] First Week Event Invite
+- Set due date = 3 days from now
+- Add yellow label "🚀 Onboarding"
+
+---
+
+### 🔹 Checklist Completion Flow
+**Trigger:** When checklist completed
+- Move card to ✅ First 24h Wins
+- Add green label "Level 1 Achieved"
+- Post Slack DM via Zapier: "[Name] just completed onboarding checklist! 🎉"
+
+---
+
+### 🔹 XP Event Logging
+**Trigger:** Manual Button → “Log XP”
+- Open popup to enter XP action (e.g. RSVP, Comment, Reacted)
+- Append entry to Google Sheet or Coda table via Zapier
+- Add comment to card with XP gained
+
+---
+
+### 🔹 72h Progress Reminder
+**Trigger:** Card due date reached
+- Check if checklist <100%
+- If true, move to "72h Missions"
+- Add comment: “Reminder: Time to wrap up your onboarding XP quests!”
+- Send Slack reminder (Zapier)
+
+---
+
+### 🔹 Ghost Watch Automation
+**Trigger:** Inactivity (7d no movement)
+- Add red label "👻 Ghost Alert"
+- Move card to "🧼 Ghost Zone"
+- Assign to team lead for re-engagement
+- Slack DM via Zapier: “Hey [Name], we miss your memes. Come back?”
+
+---
+
+### 🔹 Level Up Trigger
+**Trigger:** XP field updated to Level 2 threshold
+- Move card to "Ongoing XP"
+- Add label "🧙 Level 2"
+- Post congrats in #shoutouts via Slack bot
+
+---
+
+## 🧾 Trello Custom Fields to Set Up
+- Checklist % (auto-calculated externally)
+- XP Points (manual or synced from XP Tracker)
+- Level (dropdown: Level 1, Level 2, etc.)
+- Mentor Assigned (text field)
+- Last Activity Date
+
+---
+
+Let me know if you want a JSON export to import these directly into Trello or a Zapier flow to wire this to Slack + Coda automatically.
