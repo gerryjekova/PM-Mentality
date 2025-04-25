@@ -1,0 +1,169 @@
+# Community Engagement Master Dashboard
+
+## Dashboard Setup Instructions
+
+1. Create a new Google Sheet titled "PM Mentality Community Engagement Dashboard"
+2. Create the following tabs:
+   - Executive Summary
+   - Community Health Metrics
+   - Experiment Tracker
+   - Feedback Analysis
+   - Resource Utilization
+   - Member Journey
+   - Action Items
+
+3. Follow the structure below for each tab
+
+---
+
+## Tab 1: Executive Summary
+
+### Row 1-2: Header and Description
+[Add your community name, date range, and brief description]
+
+### Rows 4-9: KPI Summary Table
+
+| Key Metric | Current | Previous | % Change | Target | Status |
+|------------|---------|----------|----------|--------|--------|
+| Active Members | =IMPORTRANGE("Community Health Metrics Tab", "B4") | =IMPORTRANGE("Community Health Metrics Tab", "C4") | =ARRAYFORMULA((B5-C5)/C5) | [Target] | =IF(B5>=E5,"✅","⚠️") |
+| Engagement Rate | =IMPORTRANGE | =IMPORTRANGE | =Formula | [Target] | =IF() |
+| Retention Rate | =IMPORTRANGE | =IMPORTRANGE | =Formula | [Target] | =IF() |
+| Mentorship Connections | =IMPORTRANGE | =IMPORTRANGE | =Formula | [Target] | =IF() |
+| Resource Utilization | =IMPORTRANGE | =IMPORTRANGE | =Formula | [Target] | =IF() |
+| Community Sentiment | =IMPORTRANGE | =IMPORTRANGE | =Formula | [Target] | =IF() |
+
+### Rows 11-15: Current Focus Areas
+
+| Priority | Initiative | Owner | Status | Next Review |
+|----------|-----------|-------|--------|------------|
+| 1 | [Initiative Name] | [Owner Name] | [Status] | [Date] |
+| 2 | [Initiative Name] | [Owner Name] | [Status] | [Date] |
+| 3 | [Initiative Name] | [Owner Name] | [Status] | [Date] |
+
+### Rows 17-22: Quick Insights
+
+- **Wins:** [Bullet list of key wins]
+- **Challenges:** [Bullet list of challenges]
+- **Member Spotlight:** [Highlight success stories]
+- **Experiment Results:** [Quick summary of recent experiment outcomes]
+- **Resources Needed:** [List any resource gaps]
+
+---
+
+## Tab 2: Community Health Metrics
+
+### Engagement Metrics Table
+
+| Metric | Current Period | Previous Period | % Change | Benchmark | Notes |
+|--------|---------------|----------------|----------|-----------|-------|
+| Total Members | [Number] | [Number] | =FORMULA | [Industry benchmark] | [Context] |
+| Active Members | [Number] | [Number] | =FORMULA | [Benchmark] | [Context] |
+| New Members | [Number] | [Number] | =FORMULA | [Benchmark] | [Context] |
+| Posts Created | [Number] | [Number] | =FORMULA | [Benchmark] | [Context] |
+| Comments/Replies | [Number] | [Number] | =FORMULA | [Benchmark] | [Context] |
+| Mentor Contributions | [Number] | [Number] | =FORMULA | [Benchmark] | [Context] |
+| Mentee Engagement | [Number] | [Number] | =FORMULA | [Benchmark] | [Context] |
+| Event Attendance | [Number] | [Number] | =FORMULA | [Benchmark] | [Context] |
+| Resource Downloads | [Number] | [Number] | =FORMULA | [Benchmark] | [Context] |
+| Average Session Time | [Time] | [Time] | =FORMULA | [Benchmark] | [Context] |
+
+### Platform-Specific Metrics
+
+| Platform | Active Users | Posts | Interactions | Top Performing Content |
+|----------|-------------|-------|--------------|------------------------|
+| Slack | [Number] | [Number] | [Number] | [Content description] |
+| LinkedIn | [Number] | [Number] | [Number] | [Content description] |
+| Coda | [Number] | [Number] | [Number] | [Content description] |
+| Discord | [Number] | [Number] | [Number] | [Content description] |
+
+---
+
+## Tab 3: Experiment Tracker
+
+| Experiment Name | Hypothesis | Start Date | End Date | Status | Primary Metric | Baseline | Current | Lift | Insights | Next Steps |
+|-----------------|------------|------------|----------|--------|---------------|----------|---------|------|----------|-----------|
+| [Name] | [Hypothesis] | [Date] | [Date] | [Active/Complete] | [Metric] | [Value] | [Value] | [%] | [Key learnings] | [Actions] |
+| [Name] | [Hypothesis] | [Date] | [Date] | [Active/Complete] | [Metric] | [Value] | [Value] | [%] | [Key learnings] | [Actions] |
+| [Name] | [Hypothesis] | [Date] | [Date] | [Active/Complete] | [Metric] | [Value] | [Value] | [%] | [Key learnings] | [Actions] |
+
+### Experiment Backlog
+
+| Experiment Idea | Expected Impact | Resources Required | Priority | Proposed Start |
+|-----------------|----------------|-------------------|----------|---------------|
+| [Idea] | [Impact] | [Resources] | [H/M/L] | [Date] |
+| [Idea] | [Impact] | [Resources] | [H/M/L] | [Date] |
+| [Idea] | [Impact] | [Resources] | [H/M/L] | [Date] |
+
+---
+
+## Tab 4: Feedback Analysis
+
+### Feedback Sources Summary
+
+| Source | Responses | Positive Sentiment | Neutral | Negative | Key Themes |
+|--------|-----------|-------------------|---------|----------|-----------|
+| Monthly Survey | [Number] | [%] | [%] | [%] | [Themes] |
+| Event Feedback | [Number] | [%] | [%] | [%] | [Themes] |
+| 1:1 Conversations | [Number] | [%] | [%] | [%] | [Themes] |
+| Direct Messages | [Number] | [%] | [%] | [%] | [Themes] |
+| Public Comments | [Number] | [%] | [%] | [%] | [Themes] |
+
+### Feedback Themes Table
+
+| Theme | Frequency | Impact | Member Segment | Representative Quote | Action Status |
+|-------|-----------|--------|---------------|----------------------|--------------|
+| [Theme] | [Count] | [H/M/L] | [Segment] | "[Quote]" | [Not Started/In Progress/Complete] |
+| [Theme] | [Count] | [H/M/L] | [Segment] | "[Quote]" | [Status] |
+| [Theme] | [Count] | [H/M/L] | [Segment] | "[Quote]" | [Status] |
+
+---
+
+## Tab 5: Resource Utilization 
+
+### Content Performance
+
+| Resource Name | Type | Views | Completions | Shares | Feedback Score | Action Needed |
+|---------------|------|-------|-------------|--------|---------------|--------------|
+| [Resource] | [Type] | [#] | [#] | [#] | [1-5] | [Action] |
+| [Resource] | [Type] | [#] | [#] | [#] | [1-5] | [Action] |
+| [Resource] | [Type] | [#] | [#] | [#] | [1-5] | [Action] |
+
+### Resource Gap Analysis
+
+| Topic | Member Need | Current Coverage | Priority | Proposed Solution |
+|-------|------------|-----------------|----------|-------------------|
+| [Topic] | [Need] | [None/Partial/Full] | [H/M/L] | [Solution] |
+| [Topic] | [Need] | [Coverage] | [Priority] | [Solution] |
+| [Topic] | [Need] | [Coverage] | [Priority] | [Solution] |
+
+---
+
+## Tab 6: Member Journey
+
+### Cohort Analysis
+
+| Cohort (Join Date) | Size | 30-Day Retention | 60-Day | 90-Day | Key Engagement Points | Notes |
+|--------------------|------|-----------------|--------|--------|----------------------|-------|
+| [Date Range] | [#] | [%] | [%] | [%] | [Touchpoints] | [Notes] |
+| [Date Range] | [#] | [%] | [%] | [%] | [Touchpoints] | [Notes] |
+| [Date Range] | [#] | [%] | [%] | [%] | [Touchpoints] | [Notes] |
+
+### Member Segment Performance
+
+| Segment | Size | Engagement Rate | Content Creation | Resource Usage | Top Interests | Growth Opportunities |
+|---------|------|----------------|-----------------|---------------|--------------|---------------------|
+| New Members | [#] | [%] | [#] | [#] | [Interests] | [Opportunities] |
+| Active Mentees | [#] | [%] | [#] | [#] | [Interests] | [Opportunities] |
+| Mentors | [#] | [%] | [#] | [#] | [Interests] | [Opportunities] |
+| Power Users | [#] | [%] | [#] | [#] | [Interests] | [Opportunities] |
+| At-Risk | [#] | [%] | [#] | [#] | [Interests] | [Opportunities] |
+
+---
+
+## Tab 7: Action Items
+
+| Action Item | Related Metric/Goal | Owner | Priority | Status | Due Date | Notes |
+|-------------|---------------------|-------|----------|--------|----------|-------|
+| [Action] | [Metric] | [Name] | [H/M/L] | [Status] | [Date] | [Notes] |
+| [Action] | [Metric] | [Name] | [Priority] | [Status] | [Date] | [Notes] |
+| [Action] | [Metric] | [Name] | [Priority] | [Status] | [Date] | [Notes] |
