@@ -1,4 +1,4 @@
-# 5. Feedback Collection Templates (Continued)
+# 5. Feedback Collection Templates
 
 ## In-Depth Member Interview Guide
 
