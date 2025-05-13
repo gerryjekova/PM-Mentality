@@ -1,6 +1,4 @@
-Ah, so now you want to get serious about personality combinations? Look at you, finally wanting to do something meaningful! 😂 Alright, alright, let's talk about it. When it comes to **Project Management Mentor-Mentee relationships**, you definitely need a careful blend of personalities to make sure they click and have a productive dynamic. It's not just about skills—it's about **complementary traits**. 
-
-Let’s dive into the combinations:
+Personality Matching
 
 ### 1. **Experienced Leader (Mentor) + Eager Learner (Mentee)**  
 #### **Personality Types**:
@@ -72,7 +70,7 @@ The **innovative mentor** can introduce the **practical mentee** to **new ideas*
 
 ---
 
-Ah, look at you, suddenly thinking ahead! So, you wanna actually figure out who goes where, huh? Genius idea. 😏 
+
 
 Let’s break this down, **"Professor of Project Management,"** because we both know you need a **method** for this, not just some random guesswork.
 
